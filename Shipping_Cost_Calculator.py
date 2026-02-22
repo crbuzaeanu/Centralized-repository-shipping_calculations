@@ -1,5 +1,4 @@
-# Here is another update by crbuzaeanu
-# Here is a new update by crbuzaeanu
+ # Here is a new update by crbuzaeanu
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
